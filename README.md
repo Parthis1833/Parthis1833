@@ -87,10 +87,10 @@ Domain | My Expertise
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/2095522" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/170775021-c5724179-c3ed-40fa-ad20-6913f0f56efb.png" style="height:30vh; width:15vw;"/></a>
 <hr/> -->
 
-<div >
-<img alt="Siddhesh's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" />
+<!-- <div >
+<img alt="Siddhesh's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" /> -->
 <!--  align="left" height="500" width="400" <img align="right" height="500" width="400" src="./profile-3d-contrib/profile-night-rainbow.svg" /> -->
-</div> 
+<!-- </div>  -->
 <!--  
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
 <!-- 
