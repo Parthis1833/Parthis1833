@@ -1,4 +1,4 @@
-# Parthis_Joshi
+# Parthis Joshi
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddheshKukade&repo=portfolio)](https://github.com/Siddhesh/Portfolio) -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddheshKukade)](https://github.com/SiddheshKukade/SiddheshKukade) -->
 <p align="center">
