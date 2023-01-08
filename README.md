@@ -57,7 +57,7 @@ Domain | My Expertise
  <p align="right" >
   <img src="https://komarev.com/ghpvc/?username=JParthis&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="@JParthis" />
   <a href="https://twitter.com/JParthis_" target="blank">
-        <img src="https://img.shields.io/twitter/follow/TheSidK_?logo=twitter&style=for-the-badge" alt="Parthis" />
+        <img src="https://img.shields.io/twitter/follow/JParthis?logo=twitter&style=for-the-badge" alt="Parthis" />
       <img src="https://img.shields.io/youtube/channel/views/UCv-7LW60AplFfQUpkFjDRhA?style=for-the-badge"/> 
    </a>
 </p>
