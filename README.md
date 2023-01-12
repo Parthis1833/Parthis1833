@@ -73,7 +73,7 @@ Domain | My Expertise
 <p align="center">
 <a href=https://twitter.com/JParthis" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ParthisJoshi Twitter" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joshi-parthis-61a761185/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Parthis Joshi Linked In" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/SiddheshKukade" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="SiddheshKukade" height="50" width="50" /></a>
+<a href="https://www.instagram.com/joshi_parthis/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="Parthis Joshi" height="50" width="50" /></a>
 </p>
 
 <hr/>
@@ -87,7 +87,7 @@ Domain | My Expertise
 <hr/> -->
 
 <!-- <div >
-<img alt="Siddhesh's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" /> -->
+<img alt="Parthis's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" /> -->
 <!--  align="left" height="500" width="400" <img align="right" height="500" width="400" src="./profile-3d-contrib/profile-night-rainbow.svg" /> -->
 <!-- </div>  -->
 <!--  
@@ -161,7 +161,7 @@ Domain | My Expertise
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SiddheshKukade&show_icons=true&hide_border=true) -->
 <!--
-**SiddheshKukade/SiddheshKukade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ParthisJoshi/ParthisJoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🏠
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
