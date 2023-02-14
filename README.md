@@ -9,7 +9,7 @@
          height="45"
          width="45" /></h1>
 <h3 align="center">
-IND_CLUTCHERS 💠MODERN DIGITAL 🏠 MALEGAON
+IND_CLUTCHERS  🏠 JUNAGADH
 </h3>
 
 
