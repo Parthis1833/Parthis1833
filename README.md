@@ -89,7 +89,7 @@ Domain | My Expertise
 <hr/> -->
 
 <!-- <div >
-<img alt="Parthis's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=SiddheshKukade&hide_border=true&theme=redical" /> -->
+<img alt="Parthis's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=Parthis1833&hide_border=true&theme=redical" /> -->
 <!--  align="left" height="500" width="400" <img align="right" height="500" width="400" src="./profile-3d-contrib/profile-night-rainbow.svg" /> -->
 <!-- </div>  -->
 <!--  
