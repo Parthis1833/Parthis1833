@@ -23,44 +23,6 @@ Domain | My Expertise
 
 
 <hr>
-
-
-
- <p align  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="SiddheshKukade" /></a></p>
-30
-<p>
-31
-  <a align= "center" href="https://github.com/SiddheshKukade">
-32
-    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
-33
-   <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
-34
-   <img align="right"   src="https://github.com/SiddheshKukade/SiddheshKukade/blob/main/devcard.svg" width="400" alt="Parthis Joshi's Dev Card"/> 
-35
- 
-36
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SiddheshKukade&count_private=true&theme=radical&show_icons=true" /> -->="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="SiddheshKukade" /></a></p>
-<p>
-  <a align= "center" href="https://github.com/SiddheshKukade">
-    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
-  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
-  <img align="right"   src="https://github.com/SiddheshKukade/SiddheshKukade/blob/main/devcard.svg" width="400" alt="Parthis Joshi's Dev Card"/> 
-
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SiddheshKukade&count_private=true&theme=radical&show_icons=true" /> 
-
-  </a>
-</p>
-<br/> 
-
-<p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthis1833&layout=compact&theme=radical&langs_count=5" />
-
-</p>
-
-<hr/>
-<br/>
-
  <p align="right" >
   <a href="https://www.linkedin.com/in/joshi-parthis-61a761185/" target="blank">
   <img src="https://komarev.com/ghpvc/?username=JParthis&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="@JParthis" />
