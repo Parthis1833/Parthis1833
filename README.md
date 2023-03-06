@@ -57,21 +57,18 @@ Domain | My Expertise
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/2095522" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/170775021-c5724179-c3ed-40fa-ad20-6913f0f56efb.png" style="height:30vh; width:15vw;"/></a>
 <hr/> -->
 
-<!-- <div >
-<img alt="Parthis's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=Parthis1833&hide_border=true&theme=redical" /> -->
-<!--  align="left" height="500" width="400" <img align="right" height="500" width="400" src="./profile-3d-contrib/profile-night-rainbow.svg" /> -->
-<!-- </div>  -->
-<!--  
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> -->
-<!-- 
+<div >
+<img alt="Parthis's GitHub activity graph" src="https://activity-graph.herokuapp.com/graph?username=Parthis1833&hide_border=true&theme=redical" /> 
+<align="left" height="500" width="400" <img align="right" height="500" width="400" src="./profile-3d-contrib/profile-night-rainbow.svg" /> 
+</div>  
+ 
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> 
+
 <p align='center'>
  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-  -->
+  
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23A022F7&size=10&lines=IND_CLUTCHERS;MODERN+DIGITAL+MALEGAON)](https://git.io/typing-svg)
- -->
-
-<!--
 <hr>
  <h2 align="center">Open Source Contributions </h2>
