@@ -1,6 +1,4 @@
 # Parthis Joshi
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddheshKukade&repo=portfolio)](https://github.com/Siddhesh/Portfolio) -->
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SiddheshKukade)](https://github.com/SiddheshKukade/SiddheshKukade) -->
 <p align="center">
   <img src="https://github.com/Parthis1833/Parthis1833/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -28,14 +26,28 @@ Domain | My Expertise
 
 
 
- <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="SiddheshKukade" /></a></p>
+ <p align  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="SiddheshKukade" /></a></p>
+30
+<p>
+31
+  <a align= "center" href="https://github.com/SiddheshKukade">
+32
+    <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
+33
+   <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
+34
+   <img align="right"   src="https://github.com/SiddheshKukade/SiddheshKukade/blob/main/devcard.svg" width="400" alt="Parthis Joshi's Dev Card"/> 
+35
+ 
+36
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SiddheshKukade&count_private=true&theme=radical&show_icons=true" /> -->="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SiddheshKukade&theme=radical&margin-w=15&margin-h=15&column=9" alt="SiddheshKukade" /></a></p>
 <p>
   <a align= "center" href="https://github.com/SiddheshKukade">
     <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddheshKukade&theme=radical">
-  <!--  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> -->
-  <!-- <img align="right"   src="https://github.com/SiddheshKukade/SiddheshKukade/blob/main/devcard.svg" width="400" alt="Parthis Joshi's Dev Card"/> -->
-<!-- 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SiddheshKukade&count_private=true&theme=radical&show_icons=true" /> -->
+  <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
+  <img align="right"   src="https://github.com/SiddheshKukade/SiddheshKukade/blob/main/devcard.svg" width="400" alt="Parthis Joshi's Dev Card"/> 
+
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=SiddheshKukade&count_private=true&theme=radical&show_icons=true" /> 
 
   </a>
 </p>
