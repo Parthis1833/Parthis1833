@@ -1,7 +1,4 @@
 # Parthish Joshi
-<p align="center">
-  <img src="https://github.com/Parthis1833/Parthis1833/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 <h1 align="center">Hi there || नमस्ते  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
