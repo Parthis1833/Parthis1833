@@ -7,7 +7,6 @@
 IND_CLUTCHERS  🏠 JUNAGADH
 </h3>
 
-
 Domain | My Expertise
 --- | --- 
 **Languages**  | ![Dart](https://img.shields.io/badge/-Dart-informational?logo=dart) ![JavaScript](https://img.shields.io/badge/-JavaScript-ff4d4d?logo=%22javascript%22) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-4d4d4d?logo=%22java%22) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white)
@@ -45,13 +44,11 @@ Domain | My Expertise
 </p>
 
 <hr/>
-<!--
 <h2 align="center"> ☁ Google Cloud Badges </h2>
-<a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1881840" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQGY6PioUmnzCg/articleshare-shrink_800/0/1651578575027?e=2147483647&v=beta&t=TRgmKkQ1pbznQLaT_Js11JbFWmHe-klqwInEOsl_2Uw" style="height:30vh; width:15vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1932217" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/167246384-51b226ab-7680-4e7f-9870-60095d8cc140.png" style="height:30vh; width:15vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/1992326" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/168458068-a0d8bc23-1561-4688-9fb1-718f366e673d.png" style="height:30vh; width:15vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/2021771" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/169092961-bdcc7de0-ce4a-4efd-b309-fffa7f7ea13b.png" style="height:30vh; width:15vw;"/></a>
 <a   href="https://www.cloudskillsboost.google/public_profiles/b82ef73c-793d-46d8-b6f6-83e511f17209/badges/2095522" target="_blank"><img src="https://user-images.githubusercontent.com/65951872/170775021-c5724179-c3ed-40fa-ad20-6913f0f56efb.png" style="height:30vh; width:15vw;"/></a>
-<hr/> -->
+<hr/> 
  
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p> 
